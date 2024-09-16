@@ -12,6 +12,6 @@ print("A bigger table has been found I can invite more people")
 
 people.insert(0,'Barack Obama')
 people.insert(2,'Albert Einstein')
-people.insert(4,'Martin Luther King Jr.')
+people.append('Martin Luther King Jr.')
 
 print(people)
