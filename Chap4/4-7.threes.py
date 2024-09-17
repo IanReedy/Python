@@ -1,3 +1,3 @@
-nums = list(range(1,21))
+nums = list(range(3,31,3))
 for num in nums:
     print(num)
