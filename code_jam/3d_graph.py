@@ -2,8 +2,6 @@
 This code creates a 3d graph that plots random points.
 I found these libraries on the internet but for it to work 
 properly I had to install 'pip3 install numpy matplotlib'
-
-
 """
 import numpy as np
 import matplotlib.pyplot as plt
