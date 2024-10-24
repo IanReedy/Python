@@ -1,3 +1,9 @@
+"""
+I create three dictionaries, `person1`, `person2`, and `person3`, to store information about individuals, including their names, ages, and cities. 
+I then compile these dictionaries into a list called `people`. 
+Finally, I use a for loop to iterate through the list, printing each person's details in a formatted string.
+"""
+
 person1 = {}
 person1['name'] = 'Sam'
 person1['age'] = 19

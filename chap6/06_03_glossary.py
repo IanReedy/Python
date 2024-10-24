@@ -1,3 +1,9 @@
+"""
+I create an empty dictionary called `glossary` to store programming terms and their definitions. 
+I add several terms along with their corresponding definitions to the dictionary. 
+Then, I use a for loop to iterate through each term in the glossary, printing the term followed by its definition, each on a new line.
+"""
+
 glossary = {}
 
 glossary["concatenate"] = 'link (things) together in a chain or series.'

@@ -1,3 +1,10 @@
+"""
+I create a list called `people_to_poll` containing names of individuals I want to survey. 
+I also create a dictionary called `people_who_poll` to track who has already responded, marking Alice and David as respondents. 
+Then, I use a for loop to iterate through `people_to_poll`, checking if each person has responded. 
+If they have, I print a thank-you message; if they haven't, I prompt them to take the poll.
+"""
+
 people_to_poll = ['Alice', 'Bob', 'Charlie', 'David', 'Eva']
 
 people_who_poll = {}

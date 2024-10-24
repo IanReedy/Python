@@ -1,3 +1,9 @@
+"""
+I create a list called `anims` containing 'dog', 'cat', and 'hyeana'. 
+Then, I use a for loop to iterate over each animal and print a specific message based on the type of animal. 
+If the animal is a 'dog', I mention it's a man's best friend; for a 'cat', I comment on its social behavior; and for a 'hyeana', I note that it's a very dangerous animal.
+"""
+
 anims = ['dog','cat','hyeana']
 for anim in anims:
     if anim == 'dog':

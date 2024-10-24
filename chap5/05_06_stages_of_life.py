@@ -1,3 +1,14 @@
+"""
+I check the ages of six different individuals using a series of conditional statements to determine their life stages based on the following criteria: 
+- If the age is less than 2, they are a baby. 
+- If the age is between 2 and 4, they are a toddler. 
+- If the age is between 4 and 13, they are a kid. 
+- If the age is between 13 and 20, they are a teenager. 
+- If the age is between 20 and 65, they are an adult. 
+- If the age is greater than 65, they are an elder. 
+For each age (`age1`, `age2`, `age3`, `age4`, `age5`, `age6`), I print the corresponding life stage.
+"""
+
 age1 = 1
 
 if age1 < 2:

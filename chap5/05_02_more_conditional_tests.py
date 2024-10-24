@@ -1,3 +1,11 @@
+"""
+I assign the string 'apple' to the variable `fruit` and print predictions and evaluations for comparisons involving `fruit`. 
+Next, I assign the string 'HELLO' to the variable `word` and print predictions and evaluations for case-insensitive comparisons. 
+Then, I create two variables, `num1` and `num2`, with values 5 and 10, respectively, and print predictions and evaluations for various numerical comparisons. 
+I check both logical conditions using `and` and `or` operators for `num1` and `num2`. 
+Finally, I create a list called `my_list` containing numbers 1 to 5 and print predictions and evaluations for membership checks within the list, using `in` and `not in` operators.
+"""
+
 fruit = "apple"
 print("Is fruit == 'apple'? I predict True.")
 print(fruit == 'apple')

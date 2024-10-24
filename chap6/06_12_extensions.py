@@ -1,3 +1,11 @@
+"""
+In this code, I create a dictionary to store information about three cities: New York, Los Angeles, and Chicago. 
+For each city, I include details such as the country, population, and a fun fact. 
+I then loop through the dictionary to print this information in a readable format. 
+After that, I add a landmark for each city and print all the details again, 
+including the new information about the landmarks.
+"""
+
 cities = {}
 cities['New York'] = {}
 cities['New York']['country'] = 'USA'

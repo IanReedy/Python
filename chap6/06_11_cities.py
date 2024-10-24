@@ -1,3 +1,10 @@
+"""
+I create a dictionary called `cities`, where each city name maps to another dictionary containing its details. 
+For New York, Los Angeles, and Chicago, I specify the country, population, and a fun fact. 
+Then, I iterate over the `cities` dictionary to access and print the country, population, and fact for each city, 
+formatting the output nicely for readability.
+"""
+
 cities = {}
 cities['New York'] = {}
 cities['New York']['country'] = 'USA'

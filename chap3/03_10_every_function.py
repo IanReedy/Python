@@ -1,3 +1,11 @@
+"""
+I create a list called `locations` containing 'Paris', 'Germany', 'Switzerland', and 'Ireland'. 
+I print the original list, reverse it, and print the reversed list. 
+Then, I display the sorted version of the list and print the total number of locations. 
+I insert 'Idaho' at the beginning of the list, print the updated list, and remove the last location using `pop()`, printing the list again. 
+Next, I remove 'Idaho' and print the list once more, then append 'Florida' to the end of the list and print the final version.
+"""
+
 locations = ['Paris','Germany','Switzerland','Ireland']
 print(locations)
 locations.reverse()

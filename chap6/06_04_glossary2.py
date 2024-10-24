@@ -1,3 +1,9 @@
+"""
+I create a dictionary called `glossary` to store programming terms and their definitions. 
+I populate the dictionary with several terms, each associated with a concise description. 
+Then, I use a for loop to iterate through each term and its meaning, printing them in a formatted way with each definition on a new line.
+"""
+
 glossary = {}
 glossary['Variable'] = 'Stores a value.'
 glossary['Function'] = 'Reuses code to perform a task.'

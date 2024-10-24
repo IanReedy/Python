@@ -1,3 +1,9 @@
+"""
+I create a dictionary called `fav_number` to store favorite numbers associated with different names. 
+I add entries for several individuals along with their corresponding favorite numbers. 
+Then, I use a for loop to iterate through the dictionary, printing each person's name and their favorite number in a formatted string.
+"""
+
 fav_number = {}
 
 fav_number['Dennis'] = 3
