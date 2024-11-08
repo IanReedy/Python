@@ -1,3 +1,4 @@
+#2
 import json
 
 favorite_number = input("What's your favorite number? ")

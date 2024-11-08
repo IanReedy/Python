@@ -1,3 +1,4 @@
+#5
 filename = '/Users/ianreedy/Desktop/Python/chap10/your_text_file.txt'
 
 try:

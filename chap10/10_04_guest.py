@@ -1,3 +1,4 @@
+#2
 filename = '/Users/ianreedy/Desktop/Python/chap10/guest.txt'
 
 name = input("Enter your name: ")

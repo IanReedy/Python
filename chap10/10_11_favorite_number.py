@@ -1,3 +1,4 @@
+#2
 import json
 
 with open('/Users/ianreedy/Desktop/Python/chap10/favorite_number.json') as file:
