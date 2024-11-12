@@ -1,4 +1,4 @@
-#34
+#3
 filename = '/Users/ianreedy/Desktop/Python/chap10/guest_book.txt'
 
 while True:
